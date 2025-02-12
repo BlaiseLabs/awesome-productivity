@@ -5,6 +5,7 @@
 
 - [Websites](#websites)
 - [Books](#books)
+- [Games](#games)
 - [Tools and Apps](#tools-and-apps)
   - [File Management](#file-management)
   - [Note Management](#note-management)
@@ -34,6 +35,40 @@
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) - Deep work is the ability to focus without distraction on a cognitively demanding task.
 - [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) - A very simple and efficient time-management method.
 - [The 5 Choices](https://www.simonandschuster.com/books/The-5-Choices/Kory-Kogon/9781476711829) - An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
+
+## Games
+- [Community Building Games](community-building-games)
+- [Self-Care & Focus Games](#self-care--focus-games)
+- [Task Management RPGs](#task-management-rpgs)
+- [Discipline & Productivity Games](#discipline--productivity-games)
+- [Coding & Automation Games](#coding--automation-games)
+
+### Community Building Games
+- [r/ProductivityGames](https://www.reddit.com/r/ProductivityGames/) - Subreddit for discussing and sharing games that focus on producitivity.
+- [Super Sweet Bot](https://supersweetbot.cc/about/) - A task management and co-working bot for Twitch and Discord.
+
+
+### Self-Care & Focus Games
+- [Finch - A Self-Care Adventure](https://finchcare.com/) - A self-care game where you nurture a pet bird by completing healthy habits.
+- [Forest - A Focus Growth Game](https://www.forestapp.cc/) - A game where you grow a tree by staying focused; breaking focus kills the tree.
+
+
+### Task Management RPGs
+- [Project Skill Tree - Turn Your Life into an RPG](https://www.projectskilltree.com/) - A game-like system for skill-building and personal growth.
+- [Habitica - A To-Do List RPG](https://habitica.com/static/home) - A role-playing game where completing tasks levels up your character and unlocks rewards.
+
+
+### Discipline & Productivity Games
+- [ScreenBreak: Block & Focus](https://apps.apple.com/us/app/screenbreak-block-focus/id6673906141) - A game where you must complete mini-challenges before accessing distracting apps.
+- [Pomodoro Quest - Time Management Game](https://game.pomofox.com/) - A Pomodoro timer game featuring pixel art, lo-fi music, and a break-time mini-game.
+
+
+### Coding & Automation Games
+- [Clash of Code - A Battle Royale for Programmers](https://www.codingame.com/multiplayer/clashofcode) - A fast-paced programming battle where coders compete to solve challenges first.
+- [The Farmer Was Replaced - Python Automation Game](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/) - A game that teaches Python automation through farming mechanics.
+
+
+
 
 ## Tools and Apps
 
