@@ -18,6 +18,8 @@
 
 ## Websites
 
+
+- [AI at Work](https://aiatwork-two.vercel.app) - Guides on using AI tools for careers and workplace productivity
 - [12+ Tips and Tricks to Work Faster in Microsoft Outlook](https://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) - Tame your Outlook with these tips in order to get a little bit closer to the awesome _Inbox Zero_.
 - [Advanced GTD with Remember The Milk](https://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) - A tutorial on how to implement GTD with Remember the Milk.
 - [Inbox Zero](https://www.43folders.com/izero) - Rigorous approach to email management aimed at keeping the inbox (almost) empty at all times.
